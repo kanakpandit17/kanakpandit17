@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Pandit</h1>
 <h3 align="center">I am passionate about working in a field that is based on analyzing data and applying models for future business predictions. "Data is the new oil" has been a part of my life and data is something I love to play with always. I am currently learning about data engineering where I am exploring various cloud tools that are useful for storing and retrieving data.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakpandit17&label=Profile%20views&color=0e75b6&style=flat" alt="kanakpandit17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakpandit17" alt="kanakpandit17" /></a> </p>
