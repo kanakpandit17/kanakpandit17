@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Pandit</h1>
-<h3 align="center">I am passionate about working in a field that is based on analyzing data and applying models for future business predictions. "Data is the new oil" has been a part of my life and data is something I love to play with always. I am currently learning about data engineering where I am exploring various cloud tools that are useful for storing and retrieving data.</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif"> -->
+<h3 align="center">I am passionate about working in a field that is based on analyzing data and applying models for future business predictions. "Data is the new oil" has been a part of my life and data is something I love to play with always. I am currently learning about data engineering where I am exploring various cloud tools that are useful for storing and retrieving data. Also, I feel business intelligence will prove instrumental in the near future when it will come to analyzing the data without actually coding thereby getting better insights about it. Hence, I have been learning about more tools like Power BI and Tableau which will be a boon for all businesses to make their decisions wiser in the future on the basis of the predictions. Along with technical skills, I also hold strong managerial skills which I discovered in myself when I participated in many product case study competitions and an active member of various college committees.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakpandit17&label=Profile%20views&color=0e75b6&style=flat" alt="kanakpandit17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakpandit17" alt="kanakpandit17" /></a> </p>
@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning **Data Engineering technologies like Docker, Airflow, Spark**
 
 - 👯 I’m looking to collaborate on **any data projects**
+
+- 👨‍💻 I also build PM Case studies available on [https://curvy-ostrich-02a.notion.site/Hello-Folks-It-s-Kanak-Here-4d19c9c06cdc4c45b3565410c83aae0f](https://curvy-ostrich-02a.notion.site/Hello-Folks-It-s-Kanak-Here-4d19c9c06cdc4c45b3565410c83aae0f)
+
+- 📝 I was a product intern at [https://www.linkedin.com/company/gigsboard-in/](https://www.linkedin.com/company/gigsboard-in/)
 
 - 📫 How to reach me **kanakpandit17@gmail.com**
 
