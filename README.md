@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakpandit17" alt="kanakpandit17" /></a> </p> -->
 <!-- 
-- 🔭 I’m currently working on **some cool data engineering projects and providing end-to-end solutions by identifying flaws in the product**
+ 🔭 I’m currently working on **some cool data engineering projects and providing end-to-end solutions by identifying flaws in the product**
 
-- 🌱 I’m currently learning **Data Engineering technologies like Docker, Airflow, Spark**
+-🌱 I’m currently learning **Data Engineering technologies like Docker, Airflow, Spark**
 
-- 👯 I’m looking to collaborate on **any data projects**
+ 👯 I’m looking to collaborate on **any data projects**
 
 - 👨‍💻 I also build PM Case studies available on [https://curvy-ostrich-02a.notion.site/Hello-Folks-It-s-Kanak-Here-4d19c9c06cdc4c45b3565410c83aae0f](https://curvy-ostrich-02a.notion.site/Hello-Folks-It-s-Kanak-Here-4d19c9c06cdc4c45b3565410c83aae0f)
 
 - 📝 I was a product intern at [https://www.linkedin.com/company/gigsboard-in/](https://www.linkedin.com/company/gigsboard-in/) -->
 
-- 📫 How to reach me **kanakpandit17@gmail.com**
+ 📫 How to reach me **kanakpandit17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
